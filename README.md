@@ -14,3 +14,8 @@ Small but powerful blacklist + wildcards.
 
 This is a general list, please check wildcards to make sure you will not block needed access to local region sites. 
 For example, .CN or .RU.
+
+
+## DPR Tip Jar
+
+5GZRBNJEdVnPzP4eUd4GP8DUHmyRGAMbq1Aevis89MtNqve9
