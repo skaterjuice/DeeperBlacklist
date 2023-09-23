@@ -16,6 +16,6 @@ This is a general list, please check wildcards to make sure you will not block n
 For example, .CN or .RU.
 
 
-## DPR Tip Jar
+## Torrent Tracker
 
-0x81f97fdabC01110352215861911b2A2ae81fE848
+Deeper Connect devices already have a Bit Torrent blocker and a tracker blocker, but for anyone who wants an extra added layer of protection, you can add this list to the Blacklist.
